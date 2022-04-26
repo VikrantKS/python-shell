@@ -15,5 +15,5 @@ postRun:
         - node --version
 configFile: mocharc.yml
 nodeVersion: 12.22.6
-version: 1.0
+version: 1.2
 containerImage: lambda2dockerhub/nucleus:py3.8
